@@ -1,4 +1,7 @@
 ### Hi there 👋
+ 🔭 I’m currently working on developing a Random Playlist Generator App that can randomly generate a list of songs for your playlist. It considers your liked songs , the year , genre etc and creates a playlist based on those parameters.
+- 🌱 I’m currently learning Javascript and Python.
+
 
 <!--
 **Lindelwe24/Lindelwe24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
