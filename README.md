@@ -1,5 +1,5 @@
 ### Hi there 👋
- 🔭 I’m currently working on developing a Random Playlist Generator App that can randomly generate a list of songs for your playlist. It considers your liked songs , the year , genre etc and creates a playlist based on those parameters.
+ 🔭 I’m currently working on developing a Currency Converter app for converting different currencies.
 - 🌱 I’m currently learning Javascript and Python.
 
 
