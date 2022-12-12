@@ -1,5 +1,5 @@
 ### Hi there 👋
- 🔭 I’m currently working on developing a Currency Converter app for converting different currencies.
+ 🔭 I’m currently working on improving my skillset as a Web Developer.
 - 🌱 I’m currently learning Javascript and Python.
 
 
