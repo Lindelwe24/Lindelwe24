@@ -1,6 +1,6 @@
 ### Hi there 👋
  🔭 I’m currently working on improving my skillset as a Front-End Developer.
-- 🌱 I’m currently learning Javascript and Python .
+- 🌱 I’m currently learning Javascript and C# .
 
 
 <!--
