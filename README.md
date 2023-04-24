@@ -1,5 +1,5 @@
 ### Hi there 👋
- 🔭 I’m currently working on improving my skillset as a Front-End Developer.
+ 🔭 I’m currently working on improving my skillset as a Software Developer.
 - 🌱 I’m currently learning Javascript and C# .
 
 
