@@ -1,6 +1,6 @@
 ### Hi there 👋
  🔭 I’m currently working on improving my skillset as a Software Developer.
-- 🌱 I’m currently learning Javascript and C# .
+- 🌱 I’m currently learning C# and Python.
 
 
 <!--
